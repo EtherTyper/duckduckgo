@@ -16,6 +16,8 @@ with 'DDG::IsControllable';
 
 =head1 DESCRIPTION
 
+# Zerp Click Info subclass Fathead
+
 This is the extension of the L<WWW::DuckDuckGo::ZeroClickInfo> class, how it
 is used on the server side of DuckDuckGo. It adds attributes to the
 ZeroClickInfo class which are not required for the "output" part of it.
